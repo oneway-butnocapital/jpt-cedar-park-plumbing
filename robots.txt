@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jpt-cedar-park-plumbing.9-s.org/sitemap.xml
